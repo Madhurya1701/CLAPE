@@ -1,0 +1,11 @@
+protbert/
+build/
+clape.egg-info/
+dist/
+
+*.txt
+*.pdb
+*.pse
+*.cif
+
+test.py
